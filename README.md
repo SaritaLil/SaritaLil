@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Sarah and I'm a web developer student, from Spain</h2>
+<h2 align="center">Hi! My name is Sarah and I'm a web developer student, from Spain</h2>
 
 
 <div align="center">
