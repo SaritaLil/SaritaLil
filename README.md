@@ -1,12 +1,5 @@
 <h2 align="left">Hi! My name is Sarah and I'm a web developer student, from Spain</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -33,8 +26,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sar/Sar/blob/output/snake.svg" alt="Snake animation" />
-
-###
